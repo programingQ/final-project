@@ -1,4 +1,4 @@
-# 🛍️ Store Management System (C++)
+# 🛍️ Store Management System 
 
 This C++ console application simulates a simple store management system with the following features:
 
