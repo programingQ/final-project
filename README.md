@@ -1,4 +1,5 @@
-
+# code explanation :
+## Although comments on simple operations were avoided, necessary explanations were commented within the code for better understanding of the code.
 # structure explanation : 
 final-project/  
 ├── **include/**          📁 Contains all header files (.h)  
@@ -9,5 +10,3 @@ final-project/
 │   └── **utils/**        🛠️ Utility function implementations (e.g., utils.cpp)  
 ├── **main.cpp**          ⚡ Main application entry point (menu-driven logic)  
 └── **README.md**         📖 Project documentation (it's what's here) 
-# code explanation :
-## Although comments on simple operations were avoided, necessary explanations were commented within the code for better understanding of the code.
