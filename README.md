@@ -1,5 +1,5 @@
 # final-project
-structure explanation : 
+# structure explanation : 
 final-project/  
 ├── **include/**          📁 Contains all header files (.h)  
 │   ├── **entities/**     🏛️ Entity class declarations (Customer, Product, Dealer, Purchase, Person)  
