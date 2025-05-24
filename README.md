@@ -13,7 +13,7 @@ This C++ console application simulates a simple store management system with the
 final-project/  
 ├── **include/**          📁 Contains all header files (.h)  
 │   ├── **entities/**     🏛️ Entity class declarations (Customer, Product, Dealer, Purchase, Person)  
-│   └── **utils/**        🛠️ Utility function/helper declarations(utils.h) 
+│   └── **utils/**        🛠️ Utility function/helper declarations 
 ├── **src/**              📁 Contains all implementation files (.cpp)  
 │   ├── **entities/**     🏛️ Entity class implementations (.cpp files matching headers)  
 │   └── **utils/**        🛠️ Utility function implementations (utils.cpp)  
